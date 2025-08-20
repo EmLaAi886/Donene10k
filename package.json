@@ -1,0 +1,14 @@
+{
+  "name": "haibaytam-api",
+  "version": "1.0.0",
+  "description": "API Node.js lấy dữ liệu từ sucsun-predict",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.4.1"
+  },
+  "type": "module"
+}
